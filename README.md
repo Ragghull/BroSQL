@@ -1,6 +1,6 @@
 # BroSQL AI 🛢️
 
-> *your sql is broken. brosql noticed. brosql judged. brosql fixed it.*
+> *your sql is broken. BroSQL noticed. BroSQL judged. BroSQL fixed it.*
 
 ---
 
